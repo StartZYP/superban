@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: mcpc-plus-1.6.4-R2.1-forge965-B251.jar
+

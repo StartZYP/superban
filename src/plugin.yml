@@ -1,0 +1,6 @@
+name: superban
+main: com.github.qq44920040.mc.superban
+version: 1.0
+commands:
+  superbanIP:
+  superunbanIP:

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="superban:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/superban_jar</output-path>
+    <root id="root">
+      <element id="archive" name="superban.jar">
+        <element id="module-output" name="superban" />
+      </element>
+    </root>
+  </artifact>
+</component>
